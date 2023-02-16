@@ -55,6 +55,7 @@
     "trailingComma": "all"
   },
   "devDependencies": {
-    "cypress": "10.9.0"
+    "cypress": "10.9.0",
+    "eslint-config-prettier": "^8.6.0"
   }
 }
